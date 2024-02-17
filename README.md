@@ -37,7 +37,7 @@ You can connect the LED strip both from the inside and from the outside, make su
 Place everything in its place in the hexagon.
 
 ![pcb](docs/image_4.webp)
-![pcb](docs/image_6.gif)
+![pcb](docs/image_5.gif)
 ![pcb](docs/image_6.gif)
 
 The sensor module is ready.
